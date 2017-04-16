@@ -18,4 +18,4 @@ class GroupSerializer(serializers.HyperlinkedModelSerializer):
 class LocationSerializer(serializers.HyperlinkedModelSerializer):
     class Meta:
         model = Location
-        fields = ('fileurl', 'nickname', 'logicalgroup')
+        fields = ('id', 'fileurl', 'nickname', 'logicalgroup')
