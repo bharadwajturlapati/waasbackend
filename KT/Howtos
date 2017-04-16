@@ -1,0 +1,8 @@
+1. Install virtual env
+pip install virtual env
+2. create an activate.cmd in the base folder
+3.Create a reqirements.txt and install requirements using (dependency management)
+pip install -r requirements.txt
+4. create a new django project.
+Super user: tbj.name@gmail.com .
+password: kings super user

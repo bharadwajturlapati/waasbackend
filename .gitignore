@@ -1,0 +1,7 @@
+Include
+Lib
+Scripts
+tcl
+.idea
+__pycache__
+migrations
